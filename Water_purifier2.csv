@@ -1,0 +1,669 @@
+,ProductName,Price(₹),Original_cost(₹),Rating,Discount(%),Delivery_offers,Type_models,Capacity (L/hr)
+0,KENT Ace,15999,21000,4.4,23.0,Free delivery,Electrical & Storage,5
+2,Aqua Fresh,4514,16500,4.1,72.0,Free delivery,Electrical & Storage,12
+3,Aquagrand SkyLand,4822,14500,4.0,66.0,Free delivery,Electrical & Storage,18
+4,Pureit Advanced,7799,11399,4.5,31.0,Free delivery,Electrical & Storage,12
+5,Pureit by,9499,18500,4.5,48.0,Free delivery,Electrical & Storage,20
+6,V-Guard Zenora,8499,12749,4.3,33.0,Free delivery,Electrical & Storage,15
+7,KENT PRISTINE,7999,10500,4.1,23.0,Free delivery,Electrical & Storage,5
+8,KENT Ace,12999,19500,4.4,33.0,Free delivery,Electrical & Storage,5
+9,Aquagrand AquaXCrux,4617,12500,4.3,63.0,Free delivery,Electrical & Storage,12
+10,LIVPURE LIV-PEP-PRO-PLUS+,8499,15500,4.3,45.0,Free delivery,Electrical & Storage,12
+11,KENT Ace,16299,21500,4.4,24.0,Free delivery,Electrical & Storage,5
+12,Aqua Fresh,4793,13999,4.0,65.0,Free delivery,Electrical & Storage,12
+13,Blue Star,7999,11400,4.1,29.0,Free delivery,Electrical & Storage,8
+14,Pureit Vital,13499,19999,4.7,32.0,Free delivery,Electrical & Storage,24
+15,Blue Star,8299,13400,4.0,38.0,Free delivery,Electrical & Storage,8
+16,Aquaguard Glory,13999,22000,4.1,36.0,Free delivery,Electrical & Storage,5
+17,Aqua Frisch,4929,20000,4.3,75.0,Free delivery,Electrical & Storage,15
+18,Eureka Forbes,8799,16000,4.1,45.0,Free delivery,Electrical & Storage,5
+19,KENT ACE,15499,20500,4.4,24.0,Free delivery,Electrical & Storage,5
+20,Aqua Fresh,4413,9142,4.1,51.0,Free delivery,Electrical & Storage,5
+21,Blue Star,8999,13900,4.1,35.0,Free delivery,Electrical & Storage,8
+22,Pureit Max,11699,22500,4.5,48.0,Free delivery,Electrical & Storage,24
+23,Blue Star,7999,13900,4.1,42.0,Free delivery,Electrical & Storage,5
+24,Aqua Fresh,4374,14289,3.9,69.0,Free delivery,Electrical & Storage,5
+25,Blue Star,11499,21900,4.3,47.0,Free delivery,Electrical & Storage,15
+26,LIVPURE Liv-pep-pro-star,11299,16490,4.3,31.0,Free delivery,Electrical & Storage,5
+28,LIVPURE LIV-BOLT+COPPER-DX(RO+UF+MIN),12112,15000,4.4,19.0,Free delivery,Electrical & Storage,15
+29,MarQ by,4464,16500,4.1,72.0,Free delivery,Electrical & Storage,10
+30,HAVELLS Aquas,7999,15999,4.4,50.0,Free delivery,Electrical & Storage,5
+32,Aqua Frisch,5439,20000,4.2,72.0,Free delivery,Electrical & Storage,15
+33,Sure from,5499,6950,3.8,20.0,Free delivery,Electrical & Non - Storage,5
+34,V-Guard Zenora,8699,13049,4.3,33.0,Free delivery,Electrical & Storage,5
+36,KENT MAXX,8500,10000,4.0,15.0,Free delivery,Electrical & Storage,60
+37,Blue Star,11999,19900,4.2,39.0,Free delivery,Electrical & Storage,15
+38,Eureka Forbes,7999,10500,4.2,23.0,Free delivery,Electrical & Non - Storage,5
+40,KENT ULTRA,5499,9000,3.9,38.0,Free delivery,Electrical & Non - Storage,60
+41,Hindware Calisto,7999,14990,4.0,46.0,Free delivery,Electrical & Storage,12
+42,Kinsco Aqua,4679,20000,4.3,76.0,Free delivery,Electrical & Storage,15
+43,HAVELLS FAB,13499,19999,4.2,32.0,Free delivery,Electrical & Storage,15
+44,Aqua Fresh,4699,13999,3.9,66.0,Free delivery,Electrical & Storage,12
+45,MarQ by,4369,16500,3.8,73.0,Free delivery,Electrical & Storage,10
+46,Aquagrand Skyland,4595,15500,3.8,70.0,Free delivery,Electrical & Storage,12
+48,Hindware CALISTO,18990,16599,4.3,43.5,Free delivery,Electrical & Storage,5
+49,Aquagrand Epic,4457,14500,4.0,69.0,Free delivery,Electrical & Storage,12
+50,Aqua Ace,4769,14999,4.1,68.0,Free delivery,Electrical & Storage,5
+52,KENT gold,699,750,4.1,6.0,Free delivery,Non - Electrical & Non - Storage,5
+53,Aquagrand Black,4644,14500,4.0,67.0,Free delivery,Electrical & Storage,10
+56,LIVPURE Linea,11699,19690,4.1,40.0,Free delivery,Electrical & Storage,12
+57,V-Guard Rejive,11149,18349,4.3,39.0,Free delivery,Electrical & Storage,15
+58,Pureit by,18490,23500,4.3,21.0,Free delivery,Electrical & Storage,15
+61,proven Water,5034,19990,4.0,74.0,Free delivery,Electrical & Storage,5
+62,Aquaguard Rapid,22999,31000,4.0,25.0,Free delivery,Electrical & Storage,5
+64,V-Guard Rejive,9499,15849,4.3,40.0,Free delivery,Electrical & Storage,15
+65,V-Guard Rejive,13099,20549,4.3,36.0,Free delivery,Electrical & Storage,15
+66,Pureit Marvella,8490,10490,4.6,19.0,Free delivery,Electrical & Storage,120
+68,KENT ELEGANT,13499,20000,4.4,32.0,Free delivery,Electrical & Storage,15
+69,LIVPURE LIV-BOLT+COPPER-DX(RO+UV+MIN),13290,17990,4.4,26.0,Free delivery,Electrical & Storage,15
+70,KENT Grand,18795,21000,4.2,10.0,Free delivery,Electrical & Non - Storage,5
+72,Faber FWP,10499,20490,4.1,48.0,Free delivery,Electrical & Storage,5
+73,Aqua Ace,5199,18499,5.0,71.0,Free delivery,Electrical & Storage,12
+74,Aqua Fresh,4981,13999,3.8,64.0,Free delivery,Electrical & Storage,12
+76,Aquaguard Infinia,15499,24000,4.3,35.0,Free delivery,Electrical & Storage,5
+77,AO Smith,24299,29350,4.4,17.0,Free delivery,Electrical & Storage,15
+78,Grand plus,3823,16500,4.5,76.0,Free delivery,Electrical & Storage,1
+80,Pureit CLASSIC,7999,10799,4.4,25.0,Free delivery,Electrical & Storage,5
+81,Grand plus,4499,16500,3.7,72.0,Free delivery,Electrical & Storage,5
+82,Aquaultra Reeva,4290,13500,3.8,68.0,Free delivery,Electrical & Storage,5
+84,HAVELLS Gracia,22590,32995,4.5,31.0,Free delivery,Electrical & Storage,5
+85,KENT PEARL,19800,21500,4.5,7.0,Free delivery,Electrical & Storage,5
+86,V-Guard Rejive,13599,21349,4.3,36.0,Free delivery,Electrical & Storage,5
+88,V-Guard Rejive,13499,22049,4.3,38.0,Free delivery,Electrical & Storage,15
+89,Aquaguard Glory,10499,15000,4.1,30.0,Free delivery,Electrical & Storage,5
+90,KENT Pearl,17990,20000,4.4,10.0,Free delivery,Electrical & Storage,5
+92,Aquaguard Mist,6999,10000,4.0,30.0,Free delivery,Electrical & Non - Storage,5
+93,Aquaguard Enhance,17200,24000,4.4,28.0,Free delivery,Electrical & Storage,5
+96,Hindware Elara,8799,15990,3.9,44.0,Free delivery,Electrical & Storage,12
+97,AQUA Skyland,5199,14500,4.0,64.0,Free delivery,Electrical & Storage,18
+98,AquaDpure AquaX,4899,15999,4.9,69.0,Free delivery,Electrical & Storage,12
+100,KENT ELEGANT,13299,19000,4.5,30.0,Free delivery,Electrical & Storage,15
+101,Aquafresh SUPREME,4899,16500,3.8,70.0,Free delivery,Electrical & Storage,12
+102,Eureka Forbes,8999,16000,4.0,43.0,Free delivery,Electrical & Storage,5
+104,Aqua Fresh,4699,12999,3.9,63.0,Free delivery,Electrical & Storage,5
+105,Aquagrand Opel,4879,15000,3.9,67.0,Free delivery,Electrical & Storage,18
+106,Aquaguard AQUAGURD,14790,21500,3.7,31.0,Free delivery,Electrical & Storage,5
+108,AquaDpure 25,5974,21999,4.7,72.0,Free delivery,Electrical & Non - Storage,5
+109,KENT Grand,14999,19500,4.5,23.0,Free delivery,Electrical & Storage,15
+110,LIVPURE Liv-Glitz,7999,8999,3.9,11.0,Free delivery,Electrical & Storage,60
+112,Aquagrand SKYLAND,4559,14500,4.1,68.0,Free delivery,Electrical & Storage,15
+113,Prestige PSWP,1949,2695,3.8,27.0,Free delivery,Non - Electrical & Storage,5
+114,Aqua Fresh,4319,16500,4.0,73.0,Free delivery,Electrical & Storage,18
+116,V-Guard Zenora,8499,13049,4.3,34.0,Free delivery,Electrical & Storage,5
+117,Remino 10,299,999,4.3,70.0,Free delivery,Electrical & Storage,5
+118,WATERPURE (AWS),5499,10999,4.1,50.0,Free delivery,Electrical & Storage,25
+120,Aquaguard Apex,12999,20000,4.0,35.0,Free delivery,Electrical & Storage,5
+121,LG WW151NPR,19780,25490,4.5,22.0,Free delivery,Electrical & Storage,5
+122,captain pure,1699,2499,4.3,32.0,Free delivery,Non - Electrical & Storage,22
+124,KENT GOLD,2690,2900,3.9,7.0,Free delivery,Non - Electrical & Storage,22
+125,Aquagrand Megastar,5040,17000,4.3,70.0,Free delivery,Electrical & Storage,15
+126,V-Guard Zenora,10199,15949,4.3,36.0,Free delivery,Electrical & Storage,5
+128,Sure from,8499,11500,4.2,26.0,Free delivery,Electrical & Storage,5
+129,KENT Maxx,8500,11000,4.1,22.0,Free delivery,Electrical & Storage,5
+130,HAVELLS PRO,15790,20299,4.5,22.0,Free delivery,Electrical & Storage,5
+132,KENT Pride,14985,19500,4.3,23.0,Free delivery,Electrical & Storage,15
+133,Pureit Copper,24888,32699,4.4,23.0,Free delivery,Electrical & Storage,5
+134,KENT GOLD+(11015),2799,3300,3.9,15.0,Free delivery,Non - Electrical & Storage,5
+136,Blue Star,10999,22900,4.1,51.0,Free delivery,Electrical & Storage,12
+137,Aquaguard Infinia,16499,24500,4.3,32.0,Free delivery,Electrical & Storage,5
+138,proven Alkaline,5219,16990,4.3,69.0,Free delivery,Electrical & Storage,5
+139,KENT Ace,19500,16599,4.4,43.5,Delivery charges,Electrical & Storage,5
+140,Aqua Fresh,4793,12999,3.6,63.0,Free delivery,Electrical & Storage,12
+142,Grand plus,4674,16500,3.8,71.0,Free delivery,Electrical & Storage,14
+144,LIVPURE LIV-PEP-PRO,9499,11999,4.2,20.0,Free delivery,Electrical & Storage,5
+145,trypkon BUZZ,9499,34999,4.4,72.0,Free delivery,Electrical & Storage,20
+146,MarQ by,4999,9599,3.7,47.0,Free delivery,Electrical & Storage,5
+148,Ferrum ThamesPure,1710,2300,4.3,25.0,Free delivery,Non - Electrical & Storage,3
+150,EUREKA FORBES,17590,21500,4.2,18.0,Free delivery,Electrical & Storage,5
+152,Grand plus,1189,2999,3.7,60.0,Delivery charges,Non - Electrical & Storage,5
+153,Prestige Clean,1650,2195,3.7,24.0,Free delivery,Non - Electrical & Storage,5
+154,AquaDart Alkaline,4999,19999,4.1,75.0,Free delivery,Electrical & Storage,12
+156,Aquafresh smokeXcrux,4674,16500,4.3,71.0,Free delivery,Electrical & Storage,5
+157,Pureit by,10590,11900,4.2,11.0,Free delivery,Electrical & Storage,5
+158,KENT grand,17990,20500,4.5,12.0,Free delivery,Electrical & Storage,5
+160,KENT Elegant,14999,19500,4.6,23.0,Free delivery,Electrical & Storage,15
+161,Grand plus,4499,16500,4.1,72.0,Free delivery,Electrical & Storage,1
+162,Aqua Fresh,4699,13999,4.2,66.0,Free delivery,Electrical & Storage,12
+164,AQUA BLACK,4616,14500,4.1,68.0,Free delivery,Electrical & Storage,12
+165,LG WW140NP,17150,22690,4.4,24.0,Free delivery,Electrical & Storage,10
+166,Pureit by,12850,14990,4.3,14.0,Free delivery,Electrical & Storage,5
+168,MarQ by,4749,12300,4.1,61.0,Free delivery,Electrical & Storage,10
+169,MarQ by,4321,16500,4.1,73.0,Free delivery,Electrical & Storage,10
+170,Aquagrand Red,4741,14500,4.7,67.0,Free delivery,Electrical & Storage,12
+172,EUREKA FORBES,10799,18000,3.6,40.0,Free delivery,Electrical & Storage,5
+173,Pureit ULTIMA,22490,27399,3.7,17.0,Free delivery,Electrical & Storage,5
+174,Zero B,499,599,3.8,16.0,Free delivery,Non - Electrical & Non - Storage,120
+176,LG WW151NP,21157,26690,4.6,20.0,Free delivery,Electrical & Non - Storage,5
+177,V-Guard Rejive,9299,15849,4.3,41.0,Free delivery,Electrical & Storage,15
+178,LG WW130NP,15890,19604,4.3,18.0,Free delivery,Electrical & Storage,10
+180,AQUA NATURAL,4679,15500,4.0,69.0,Free delivery,Electrical & Storage,12
+181,AO Smith,16999,19500,4.4,12.0,Free delivery,Electrical & Storage,5
+182,LG WW142NPC,17499,23499,4.5,25.0,Free delivery,Electrical & Storage,5
+184,Grand plus,4299,16500,4.0,73.0,Free delivery,Electrical & Storage,12
+185,Aquaguard 2241404223000775,18200,22500,4.3,19.0,Free delivery,Electrical & Storage,7
+186,Peore Pro,14500,22999,4.5,36.0,Free delivery,Electrical & Storage,30
+188,Grand plus,4399,16500,4.0,73.0,Free delivery,Electrical & Storage,15
+189,Aquaguard Glory,17999,25000,4.1,28.0,Free delivery,Electrical & Storage,5
+190,Pureit CLASSIC,7980,9499,4.4,15.0,Free delivery,Electrical & Storage,5
+192,WATERPURE Non,1100,2000,4.3,45.0,Free delivery,Non - Electrical & Storage,16
+193,AQUA Epic,4599,13500,3.9,65.0,Free delivery,Electrical & Storage,5
+194,Faber FWP,14990,16599,5.0,43.5,Free delivery,Electrical & Storage,5
+196,AO Smith,12599,20475,4.2,38.0,Free delivery,Electrical & Storage,5
+198,Faber FWP,7390,14990,4.3,50.0,Free delivery,Electrical & Storage,5
+200,Remino 50,10449,29999,4.0,65.0,Free delivery,Electrical & Non - Storage,50
+201,AQUA AQU-SS-GR-AM-,4409,12275,4.2,64.0,Delivery charges,Electrical & Storage,15
+202,Aquaultra Advance,5120,13500,4.3,62.0,Free delivery,Electrical & Storage,5
+204,Aquatec Plus,5509,13999,4.5,60.0,Free delivery,Electrical & Storage,15
+205,proven Alkaline,5174,16990,4.4,69.0,Free delivery,Electrical & Storage,12
+206,HAVELLS Delite,16918,22999,4.3,26.0,Free delivery,Electrical & Storage,5
+208,Peore Pro,14500,22999,4.6,36.0,Free delivery,Electrical & Storage,5
+209,Aquaguard Enhance,17850,24000,4.3,25.0,Free delivery,Electrical & Storage,5
+210,nexus pure,6079,17422,4.2,65.0,Free delivery,Electrical & Storage,20
+212,Pureit CLASSIC,7050,8390,4.4,15.0,Free delivery,Electrical & Storage,5
+214,LG WW184EPC,27600,36099,4.7,23.0,Free delivery,Electrical & Storage,5
+216,BRITA Flow,3949,4999,4.3,21.0,Free delivery,Non - Electrical & Storage,5
+218,Aqua Flow,5699,14999,3.5,62.0,Free delivery,Electrical & Storage,15
+220,SAMTA Techno,10440,25990,4.5,59.0,Free delivery,Electrical & Storage,10000
+221,Pureit CLASSIC,10990,12900,4.2,14.0,Free delivery,Electrical & Storage,5
+222,Aqua Fresh,4319,16500,4.0,73.0,Free delivery,Electrical & Storage,5
+224,LG WW184EPB,27380,36999,4.3,25.0,Free delivery,Electrical & Storage,5
+225,Aqua Fresh,4887,13999,3.7,65.0,Free delivery,Electrical & Storage,5
+226,AO Smith,21999,31850,4.4,30.0,Free delivery,Electrical & Storage,15
+228,KENT 11138,6250,9000,4.7,30.0,Free delivery,Electrical & Non - Storage,5
+229,Aquatec Plus,7599,14499,4.3,47.0,Free delivery,Electrical & Storage,15
+230,EUREKA FORBES,15000,17990,4.3,16.0,Free delivery,Electrical & Storage,5
+232,Hydroshell 100,16149,39999,4.8,59.0,Free delivery,Electrical & Non - Storage,100
+233,AQUA SKYLAND,5224,15500,4.0,66.0,Free delivery,Electrical & Storage,18
+234,Hydroshell 50,11399,38999,4.2,70.0,Free delivery,Electrical & Non - Storage,50
+236,Whirlpool Minerala,9390,18500,4.0,49.0,Free delivery,Electrical & Storage,5
+237,AO Smith,12768,13800,4.0,7.0,Free delivery,Electrical & Storage,15
+238,Hindware Elara,9999,17990,4.3,44.0,Free delivery,Electrical & Storage,5
+240,Royal Aquafresh,4249,16500,3.7,74.0,Free delivery,Electrical & Storage,5
+241,Pureit COPPER+,24999,26490,4.4,5.0,Free delivery,Electrical & Storage,5
+242,Aquatec Plus,7931,14499,4.3,45.0,Free delivery,Electrical & Storage,15
+244,AQUA grand,5034,14500,3.9,65.0,Free delivery,Electrical & Storage,5
+246,nexus pure,4749,17421,4.1,72.0,Free delivery,Electrical & Storage,15
+248,Aquaultra Sophia,4999,13500,4.3,62.0,Free delivery,Electrical & Storage,5
+249,Tata Swach,12999,14999,4.3,13.0,Free delivery,Electrical & Storage,5
+250,HAVELLS UTC,18490,25599,4.9,27.0,Free delivery,Electrical & Storage,15
+252,Aquagrand White,4599,17500,4.3,73.0,Free delivery,Electrical & Storage,15
+253,Aquaguard regal,14699,21500,3.7,31.0,Free delivery,Electrical & Storage,5
+254,Aquaguard Pride,2799,3199,3.9,12.0,Free delivery,Non - Electrical & Storage,5
+256,Aquaguard Regal,12495,16000,3.7,21.0,Free delivery,Electrical & Storage,5
+257,nexus pure,5414,15499,3.9,65.0,Free delivery,Electrical & Storage,20
+258,MarQ by,4369,16500,4.3,73.0,Free delivery,Electrical & Storage,10
+260,proven Fully,5032,17990,4.3,72.0,Free delivery,Electrical & Storage,5
+261,AQUA Aqua_LC,5482,13999,4.3,60.0,Free delivery,Electrical & Storage,18
+262,LG WW174NPC,22150,29499,4.8,24.0,Free delivery,Electrical & Storage,10
+264,KENT Pearl,18299,20500,4.3,10.0,Free delivery,Electrical & Storage,20
+265,Midea MWP080AI6,6499,17990,3.8,63.0,Free delivery,Electrical & Storage,12
+266,Noir Aqua,5799,11999,4.2,51.0,Free delivery,Electrical & Storage,15
+268,Aqua Fresh,4511,12999,3.7,65.0,Free delivery,Electrical & Storage,12
+269,Noir Aqua,6999,12999,4.1,46.0,Free delivery,Electrical & Storage,18
+270,Kinsco Black,6479,20000,4.1,67.0,Free delivery,Electrical & Storage,15
+272,Aqua Fresh,4409,16500,4.0,73.0,Free delivery,Electrical & Storage,10
+273,AquaDart Copper,4849,19999,3.9,75.0,Free delivery,Electrical & Storage,12
+274,HAVELLS UV,9840,12242,3.8,19.0,Free delivery,Electrical & Storage,5
+276,HAVELLS Max,15941,17499,4.2,8.0,Free delivery,Electrical & Storage,5
+277,Prestige 49022,3750,4995,3.9,24.0,Free delivery,Non - Electrical & Storage,5
+278,Aquatec Plus,7362,13999,4.3,47.0,Free delivery,Electrical & Storage,15
+280,Aqua Fresh,4793,13999,3.9,65.0,Free delivery,Electrical & Storage,12
+281,Faber FWP,8794,20600,4.2,57.0,Free delivery,Electrical & Storage,5
+282,Hydroshell Water,4749,13999,3.7,66.0,Free delivery,Electrical & Non - Storage,12
+284,nexus pure,5414,17479,4.0,69.0,Free delivery,Electrical & Storage,20
+285,proven 3000,5749,16999,3.8,66.0,Free delivery,Electrical & Storage,5
+286,R.K. AQUA,5399,15999,4.3,66.0,Free delivery,Electrical & Storage,5
+288,Aquaguard PREMIER,16280,22000,3.8,26.0,Free delivery,Electrical & Storage,5
+289,Hydroshell Active,5299,15999,4.3,66.0,Free delivery,Electrical & Storage,12
+290,nexus pure,5413,15499,4.0,65.0,Free delivery,Electrical & Storage,20
+292,AquaActive MistyROUVPFWhiteBlue,8160,23700,4.0,65.0,Delivery charges,Electrical & Storage,14
+293,E.F.M Epic,4899,13500,4.2,63.0,Free delivery,Electrical & Storage,15
+294,LIVPURE Linea,10499,17690,3.7,40.0,Free delivery,Electrical & Storage,12
+296,LG ,17989,21990,4.3,18.0,Free delivery,Electrical & Storage,5
+297,aquadeal MIRACLE,5984,16999,4.2,64.0,Free delivery,Electrical & Storage,15
+298,BRITA Marella,1899,2499,4.3,24.0,Free delivery,Non - Electrical & Storage,5
+300,SAMTA wall,4499,10990,3.8,59.0,Free delivery,Electrical & Non - Storage,15
+301,AquaDpure Copper,5649,15499,4.2,63.0,Free delivery,Electrical & Storage,12
+302,KONVIO Non,2499,3999,3.6,37.0,Free delivery,Non - Electrical & Storage,2
+304,Hi Tech,11500,16500,4.3,30.0,Delivery charges,Electrical & Storage,20
+305,Blair Epic,4406,17690,4.0,75.0,Free delivery,Electrical & Storage,30
+306,Aqua Fresh,4362,9999,4.3,56.0,Free delivery,Electrical & Storage,15
+308,Pureit Marvella,17839,22000,4.3,18.0,Free delivery,Electrical & Storage,5
+309,AO Smith,15490,17350,3.8,10.0,Free delivery,Electrical & Storage,15
+310,Aqua Fresh,4448,8999,4.2,50.0,Free delivery,Electrical & Storage,5
+312,Purosis Ak,11499,18992,4.3,39.0,Delivery charges,Electrical & Storage,5
+313,LIVPURE LIV-ZINGER-HR-DX,15190,18990,3.9,20.0,Free delivery,Electrical & Storage,15
+314,LG Puricare,16790,19900,4.3,15.0,Free delivery,Electrical & Storage,5
+316,Aqua Fresh,5039,16500,4.1,69.0,Free delivery,Electrical & Storage,20
+317,AQUA SKYLND,5034,15500,3.7,67.0,Free delivery,Electrical & Storage,12
+318,nexus pure,5413,17421,4.0,68.0,Free delivery,Electrical & Storage,20
+320,R.K. AQUA,4859,16999,3.9,71.0,Free delivery,Electrical & Storage,5
+321,Aqua Frisch,4899,12999,4.3,62.0,Free delivery,Electrical & Storage,15
+322,AQUA JADE,5699,14999,4.3,62.0,Free delivery,Electrical & Storage,18
+324,ONE RO,17499,34499,4.3,49.0,Free delivery,Electrical & Non - Storage,5
+325,BePURE 4G,15999,24999,4.3,36.0,Free delivery,Electrical & Storage,15
+328,Hindware Elara,10990,18990,3.7,42.0,Free delivery,Electrical & Storage,12
+329,trypkon BUZZ,7495,23715,5.0,68.0,Free delivery,Electrical & Storage,20
+330,AQUA Model,4604,14500,4.0,68.0,Free delivery,Electrical & Storage,10
+332,KENT Grand,17290,20500,4.4,15.0,Free delivery,Electrical & Storage,5
+334,Aquaguard Ritz,18999,23000,4.1,17.0,Free delivery,Electrical & Storage,5
+336,LIVPURE ZINGER,20890,29999,4.4,30.0,Free delivery,Electrical & Storage,15
+337,Aquaguard Enhance,11999,16599,4.3,27.0,Free delivery,Electrical & Storage,5
+338,KENT 11143,6749,9000,4.3,25.0,Free delivery,Electrical & Non - Storage,5
+340,HAVELLS DELITE,18499,26377,4.3,29.0,Free delivery,Electrical & Storage,5
+341,Noir Aqua,5799,13999,4.0,58.0,Free delivery,Electrical & Storage,15
+342,Blair AQUA,5697,17590,3.7,67.0,Free delivery,Electrical & Storage,15
+344,proven 3000,5849,16999,4.2,65.0,Free delivery,Electrical & Storage,5
+346,AQUA AQUAGLORY-BLUE,5882,11999,4.3,50.0,Free delivery,Electrical & Storage,18
+348,captain pure,1999,3299,4.3,39.0,Free delivery,Non - Electrical & Storage,22
+349,AQUA AQUATOUCH-Blue,5499,10500,3.7,47.0,Free delivery,Electrical & Storage,18
+350,Aquagrand Alkaline,4749,12500,4.1,62.0,Free delivery,Electrical & Storage,12
+352,HAVELLS FAB,13200,21229,4.2,37.0,Free delivery,Electrical & Storage,15
+353,Aqua Ace,5199,14999,4.3,65.0,Free delivery,Electrical & Storage,12
+354,Aqua Ultra,4870,13500,3.9,63.0,Free delivery,Electrical & Storage,5
+356,Aqua Fresh,4232,14000,4.3,69.0,Free delivery,Electrical & Storage,5
+357,KENT CRYSTAL,16299,21250,3.8,23.0,Delivery charges,Electrical & Storage,5
+358,Prestige Tattva,3000,3195,3.9,6.0,Free delivery,Non - Electrical & Storage,5
+360,Aquagrand AquaXSwift,5034,15000,4.3,66.0,Free delivery,Electrical & Storage,12
+361,g.s. aquafresh,3999,12999,3.9,69.0,Free delivery,Electrical & Storage,12
+362,Aquaguard RO+UV+UF+MTDS,17850,18490,4.3,3.0,Free delivery,Electrical & Storage,5
+364,Aquafresh Black,4376,16500,3.8,73.0,Free delivery,Electrical & Storage,20
+365,AQUA SKYLAND,5034,14500,3.7,65.0,Free delivery,Electrical & Storage,18
+366,Midea MWPRU080AL7,14865,19990,3.7,25.0,Free delivery,Electrical & Storage,12
+368,Oseas aqua,4799,15999,4.3,70.0,Free delivery,Electrical & Storage,5
+369,aquadeal RO+UV_LED+UF+TDS,7259,15990,4.3,54.0,Free delivery,Electrical & Storage,15
+370,AQUA NYC,4769,14500,3.8,67.0,Free delivery,Electrical & Storage,12
+372,Aqua Fresh,4793,13999,3.8,65.0,Free delivery,Electrical & Storage,12
+373,Faber FWP,9999,15990,4.1,37.0,Free delivery,Electrical & Storage,10
+374,Aquaguard Enhance,10299,12400,4.3,16.0,Free delivery,Electrical & Storage,5
+376,R.K. AQUA,4859,12999,4.2,62.0,Free delivery,Electrical & Storage,5
+377,SAMTA AquaPure,4654,14990,4.0,68.0,Free delivery,Electrical & Storage,15
+378,Eureka Forbes,8499,13000,4.1,34.0,Free delivery,Electrical & Storage,5
+380,proven 10,5190,16999,4.4,69.0,Free delivery,Electrical & Storage,5
+381,aquadeal 14,5849,15999,4.2,63.0,Free delivery,Electrical & Storage,15
+382,Aquaguard Eden,24999,36500,4.3,31.0,Free delivery,Electrical & Storage,5
+384,HAVELLS Digiplus,14990,25409,3.3,41.0,Free delivery,Electrical & Storage,5
+385,Grand plus,4249,16500,3.6,74.0,Free delivery,Electrical & Storage,5
+386,nexus pure,4749,16999,4.0,72.0,Free delivery,Electrical & Storage,20
+388,AQUA NYC,5034,15599,4.0,67.0,Free delivery,Electrical & Storage,12
+389,Aquafresh SWIFT,4652,13999,4.3,66.0,Free delivery,Electrical & Storage,12
+390,AQUA Skyland,5309,15500,3.7,65.0,Free delivery,Electrical & Storage,15
+392,Kinsco Aqua,5399,20000,4.4,73.0,Free delivery,Electrical & Storage,5
+393,Blair ALTIS,4972,19990,4.0,75.0,Free delivery,Electrical & Storage,15
+394,Blair EPIC,4918,19990,4.3,75.0,Free delivery,Electrical & Storage,17
+396,Grand plus,1484,2999,3.7,50.0,Free delivery,Non - Electrical & Storage,5
+397,E.F.M Grand,4229,9000,4.4,53.0,Free delivery,Electrical & Storage,12
+398,Aquaguard Superb,18099,24500,4.7,26.0,Free delivery,Electrical & Storage,5
+400,Aquagrand Megastar,4699,17000,3.8,72.0,Free delivery,Electrical & Storage,15
+401,AQUA fresh,5034,14000,4.0,64.0,Free delivery,Electrical & Storage,5
+404,Aquaguard Superb,17099,22500,4.3,24.0,Free delivery,Electrical & Storage,5
+405,AquaDpure RO+UV+UF+TDS,4742,15999,3.3,70.0,Free delivery,Electrical & Storage,12
+406,CUCKOO Dual,15499,27990,4.3,44.0,Free delivery,Electrical & Storage,15
+408,Blair GLORY,6147,19999,4.1,69.0,Free delivery,Electrical & Storage,17
+409,Aqua Fresh,4698,12999,3.8,63.0,Free delivery,Electrical & Storage,12
+410,Grand plus,4499,11834,4.0,61.0,Free delivery,Electrical & Storage,12
+412,trypkon SENSIBLE,5889,17422,4.1,66.0,Free delivery,Electrical & Storage,20
+413,Aquafresh PURIX,4699,13999,3.8,66.0,Free delivery,Electrical & Storage,5
+414,Aqua Fresh,4699,13999,3.8,66.0,Free delivery,Electrical & Storage,5
+416,AquaDart 25,6499,22999,4.0,71.0,Free delivery,Electrical & Non - Storage,5
+417,Royal Aquafresh,4578,16500,4.0,72.0,Free delivery,Electrical & Storage,12
+420,Aqua Fresh,4793,13999,4.7,65.0,Free delivery,Electrical & Storage,12
+421,Aqua Fresh,4511,12999,4.0,65.0,Free delivery,Electrical & Storage,12
+422,KENT ultra,7890,10000,3.9,21.0,Free delivery,Electrical & Storage,5
+424,Arroser Pure,6489,21999,4.3,70.0,Free delivery,Electrical & Storage,18
+425,CUCKOO Platina,14499,20990,4.1,30.0,Free delivery,Electrical & Storage,12
+426,Faber FWP,8099,17990,4.3,54.0,Free delivery,Electrical & Storage,5
+428,AQUA Shine,4939,14500,3.8,65.0,Free delivery,Electrical & Storage,12
+430,LIVPURE LIV-PEP-PRO-TOUCH,12999,19999,4.0,35.0,Free delivery,Electrical & Storage,5
+432,AquaActive Hot,14041,32600,4.3,56.0,Delivery charges,Electrical & Storage,10
+433,FABER Altroz,13820,21990,4.1,37.0,Free delivery,Electrical & Storage,5
+434,KENT GOLD,699,770,3.8,9.0,Free delivery,Non - Electrical & Storage,5
+436,Aquagrand Royce,4558,14500,5.0,68.0,Free delivery,Electrical & Storage,12
+437,Peore Pro-40,13499,20999,4.2,35.0,Free delivery,Electrical & Storage,30
+438,Blair ALFA,5013,19990,3.9,74.0,Free delivery,Electrical & Storage,15
+440,AQUA LIBRA,4999,14999,3.9,66.0,Free delivery,Electrical & Storage,5
+441,trypkon TRON-4,4749,17437,4.3,72.0,Free delivery,Electrical & Storage,20
+442,V-Guard Rejive,9699,14199,3.9,31.0,Free delivery,Electrical & Storage,30
+444,Aquaguard Champion,3099,3299,3.9,6.0,Free delivery,Non - Electrical & Storage,5
+445,Blair ALTIS,4930,19999,4.3,75.0,Free delivery,Electrical & Storage,17
+446,Remino ,1999,4999,3.7,60.0,Free delivery,Electrical & Non - Storage,5
+448,Aqua Frisch,6119,20000,4.5,69.0,Free delivery,Electrical & Storage,15
+449,Prestige PSWP,1995,2695,3.8,25.0,Free delivery,Non - Electrical & Storage,5
+450,EUREKA FORBES,6999,7999,4.2,12.0,Free delivery,Electrical & Non - Storage,5
+452,Aquagrand Blue,4832,15999,4.0,69.0,Free delivery,Electrical & Storage,15
+453,AQUA ZEEP,5499,14999,4.3,63.0,Free delivery,Electrical & Storage,18
+454,Apeiron Water,2056,2285,4.3,10.0,Free delivery,Non - Electrical & Storage,5
+456,KENT PEARLS,18299,20750,4.8,11.0,Free delivery,Electrical & Storage,5
+457,Keel AUDI,8500,16500,4.3,48.0,Free delivery,Electrical & Storage,10
+458,AquaDart Alkaline,4999,19999,3.9,75.0,Free delivery,Electrical & Storage,12
+460,Grand plus,4399,12500,3.9,64.0,Free delivery,Electrical & Storage,15
+461,AQUA AQUACYCLONE-BLACK,5482,12449,4.3,55.0,Free delivery,Electrical & Storage,18
+462,Oseasaqua Fresh,4799,14999,3.3,68.0,Free delivery,Electrical & Storage,5
+464,Aqua Fresh,4999,16500,4.0,69.0,Free delivery,Electrical & Storage,5
+465,Aquafresh SUPER,4674,16500,4.1,71.0,Free delivery,Electrical & Storage,12
+466,Purosis Pure,9990,19999,5.0,50.0,Delivery charges,Electrical & Storage,7000
+468,Prestige 49004,3750,4995,3.8,24.0,Free delivery,Non - Electrical & Storage,5
+469,fedula aqua,4139,13825,4.5,70.0,Delivery charges,Electrical & Storage,15
+470,Aquaguard EUREKA,15500,17490,4.3,11.0,Free delivery,Electrical & Storage,5
+472,LIVPURE Touch,15299,19490,4.3,21.0,Free delivery,Electrical & Storage,5
+473,Aqua Ace,4899,14999,4.3,67.0,Free delivery,Electrical & Storage,12
+474,Aqua Fresh,4792,12999,4.0,63.0,Free delivery,Electrical & Storage,5
+476,KENT PRIME,18479,21000,5.0,12.0,Free delivery,Electrical & Storage,20
+477,AQUA AQUAUNIX-WHITE,5984,12999,4.3,53.0,Free delivery,Electrical & Storage,18
+478,Beyond water,1281,3499,4.3,63.0,Free delivery,Non - Electrical & Non - Storage,25
+480,Keel BLACK,7314,16500,4.3,55.0,Free delivery,Electrical & Storage,12
+481,EUREKA FORBES,20990,16599,3.7,43.5,Free delivery,Electrical & Storage,5
+482,EUREKA FORBES,19095,20999,4.4,9.0,Free delivery,Electrical & Storage,5
+484,Keel BLACK,6791,16500,4.3,58.0,Free delivery,Electrical & Storage,10
+485,Grand plus,4399,16500,3.5,73.0,Free delivery,Electrical & Storage,10
+486,KENT GRAND,19500,21500,4.3,9.0,Delivery charges,Electrical & Storage,5
+488,KENT PRIDE(11004),15333,16500,4.2,7.0,Free delivery,Electrical & Storage,15
+489,AO Smith,15990,18350,4.1,12.0,Free delivery,Electrical & Storage,15
+490,Aqua Ace,4799,14999,4.3,68.0,Free delivery,Electrical & Storage,12
+492,Aqua Fresh,4699,12999,4.3,63.0,Free delivery,Electrical & Storage,12
+493,Whirlpool PURASENSE,9999,13500,3.7,25.0,Free delivery,Electrical & Storage,5
+494,3M IAC420,7990,16599,4.3,43.5,Delivery charges,Non - Electrical & Non - Storage,5
+496,Faber FWP,8499,16990,4.3,49.0,Free delivery,Electrical & Storage,5
+498,Aquafresh NYC,4792,13999,3.8,65.0,Free delivery,Electrical & Storage,5
+500,AquaDpure 100,17004,56899,3.9,70.0,Free delivery,Electrical & Non - Storage,100
+501,fedula Aqua,5900,16500,4.3,64.0,Free delivery,Electrical & Storage,18
+502,g.s. aquafresh,5889,12999,4.3,54.0,Free delivery,Electrical & Storage,12
+504,trypkon TRON,4749,17437,4.3,72.0,Free delivery,Electrical & Storage,20
+505,Remino Water,5176,15999,4.1,67.0,Free delivery,Electrical & Storage,12
+506,Blue Star,13499,17900,4.1,24.0,Free delivery,Electrical & Storage,5
+508,KENT grand,17290,20500,3.9,15.0,Free delivery,Electrical & Storage,5
+510,AQUA Epic,4679,15400,4.1,69.0,Free delivery,Electrical & Storage,12
+512,AQUA NYC,4832,14500,3.8,66.0,Free delivery,Electrical & Storage,12
+513,Grand plus,4164,16500,5.0,74.0,Free delivery,Electrical & Storage,1
+514,Aqua Active,8369,19999,4.3,58.0,Delivery charges,Electrical & Storage,16
+516,Hydroshell Water,5176,13999,4.4,63.0,Free delivery,Electrical & Non - Storage,12
+517,Aqua Fresh,4605,12999,4.6,64.0,Free delivery,Electrical & Storage,12
+518,Aquagrand NYC,4650,15000,3.9,69.0,Free delivery,Electrical & Storage,12
+520,E.F.M Lotus,4499,9500,4.3,52.0,Free delivery,Electrical & Storage,12
+521,Royal Aquafresh,4299,16500,4.8,73.0,Free delivery,Electrical & Storage,5
+522,Aquagrand Gold,4872,14500,3.8,66.0,Free delivery,Electrical & Storage,15
+524,Royal Aquafresh,3951,16500,4.0,76.0,Delivery charges,Electrical & Storage,5
+525,Aqua Fresh,4689,13999,3.8,66.0,Free delivery,Electrical & Storage,12
+526,AQUA DOVE,4449,12999,4.3,65.0,Free delivery,Electrical & Storage,12
+528,Grand plus,1231,2999,3.7,58.0,Delivery charges,Non - Electrical & Storage,5
+529,nexus pure,5080,17455,4.6,70.0,Free delivery,Electrical & Storage,20
+530,KENT GRAND+,17590,20500,3.7,14.0,Free delivery,Electrical & Storage,5
+532,Aquaguard Sure,2749,2899,3.6,5.0,Free delivery,Non - Electrical & Storage,5
+533,Grand plus,4240,16500,4.1,74.0,Free delivery,Electrical & Storage,10
+534,Royal Aquafresh,4499,16500,4.1,72.0,Free delivery,Electrical & Storage,10
+536,HAVELLS GHWRPMB015-RO-MAX,13879,16409,4.1,15.0,Free delivery,Electrical & Storage,20
+537,Aqua Fresh,4605,12999,3.8,64.0,Free delivery,Electrical & Storage,12
+538,Aquagrand NYC,4650,14500,4.1,67.0,Free delivery,Electrical & Storage,12
+540,Faber FWP,8790,19990,4.1,56.0,Free delivery,Electrical & Storage,5
+541,Hydroshell Active,4849,15999,4.3,69.0,Free delivery,Electrical & Storage,6000
+542,R.K. AQUA,19439,35999,4.3,46.0,Free delivery,Electrical & Non - Storage,45
+544,Aquagrand Hanu,4749,13500,4.3,64.0,Free delivery,Electrical & Storage,15
+545,aquadeal pure,4651,15990,4.0,70.0,Free delivery,Electrical & Storage,15
+546,LG WW121EP,18790,23990,4.2,21.0,Free delivery,Electrical & Storage,15
+548,Zero B,8490,9990,3.3,15.0,Free delivery,Electrical & Storage,19
+549,Noir Aqua,5799,12999,4.3,55.0,Free delivery,Electrical & Storage,18
+550,EUREKA FORBES,12490,15990,4.3,21.0,Free delivery,Electrical & Storage,5
+552,Aquaultra Glory,4950,13500,4.3,63.0,Free delivery,Electrical & Storage,5
+553,E.F.M Grace,4239,10500,4.7,59.0,Free delivery,Electrical & Storage,15
+554,LG WW140NPR+MINERAL,16399,21490,4.2,23.0,Free delivery,Electrical & Storage,5
+556,AQUA Crux,5899,13500,4.3,56.0,Free delivery,Electrical & Storage,15
+557,HAVELLS Pro,13445,14999,4.1,10.0,Free delivery,Electrical & Storage,5
+558,Aqua Fresh,4887,13999,4.3,65.0,Free delivery,Electrical & Storage,12
+560,Aquagrand Plus,4139,16500,4.3,74.0,Free delivery,Electrical & Storage,15
+561,Aquagrand Hanu,4607,14500,3.9,68.0,Free delivery,Electrical & Storage,12
+562,AO Smith,18499,21250,4.3,12.0,Free delivery,Electrical & Storage,15
+564,Kinsco Aqua,4700,20000,4.2,76.0,Free delivery,Electrical & Storage,15
+565,Aqua Active,7626,19999,3.9,61.0,Delivery charges,Electrical & Storage,15
+566,Aquaguard (SS,16699,22500,4.3,25.0,Free delivery,Electrical & Storage,5
+568,RUBY Economical,4900,15000,3.9,67.0,Free delivery,Electrical & Storage,5
+569,Royal Aquafresh,4724,16500,4.3,71.0,Free delivery,Electrical & Storage,6
+570,Freshhy Alpha,11999,12500,4.3,4.0,Free delivery,Electrical & Storage,5
+572,aquadeal 4G,20890,29990,4.3,30.0,Free delivery,Electrical & Storage,18
+573,SAMTA wall,4273,9990,4.3,57.0,Free delivery,Electrical & Non - Storage,15
+574,AquaDpure ,2174,4999,3.6,56.0,Free delivery,Electrical & Non - Storage,5
+577,Aquagrand NYC,4799,12500,4.3,61.0,Free delivery,Electrical & Storage,12
+584,trypkon OPEL,4749,17724,4.3,73.0,Free delivery,Electrical & Storage,20
+589,KENT 11142,6749,9500,4.3,28.0,Free delivery,Electrical & Non - Storage,5
+590,Aqua Fresh,4793,13999,3.7,65.0,Free delivery,Electrical & Storage,12
+596,Aquaguard AQUA,6500,6950,4.3,6.0,Delivery charges,Electrical & Non - Storage,5
+600,KENT 11099,18299,20750,4.3,11.0,Free delivery,Electrical & Storage,5
+601,AQUA DOVE,4599,12500,1.8,63.0,Free delivery,Electrical & Storage,12
+622,Aquagrand Delta,5799,14500,4.1,60.0,Free delivery,Electrical & Storage,15
+625,Aqua Fresh,4887,13999,2.3,65.0,Free delivery,Electrical & Storage,12
+626,Freshhy ZETA,8499,12500,4.3,32.0,Delivery charges,Electrical & Storage,5
+632,Apeiron Water,2499,2999,4.3,16.0,Free delivery,Non - Electrical & Storage,5
+633,Kinsco Aqua,4859,20000,4.5,75.0,Free delivery,Electrical & Storage,5
+634,Aqua Active,8370,19999,3.9,58.0,Delivery charges,Electrical & Storage,16
+636,G Series,8499,18990,3.5,55.0,Delivery charges,Electrical & Storage,15
+637,Aqua Fresh,4499,16500,5.0,72.0,Free delivery,Electrical & Storage,10
+638,Aqua Fresh,4699,12999,3.9,63.0,Free delivery,Electrical & Storage,12
+641,Grand plus,4399,16500,3.9,73.0,Free delivery,Electrical & Storage,17
+642,KENT GRAND,18489,21990,4.3,15.0,Free delivery,Electrical & Storage,5
+644,Earth Ro,5224,14500,4.3,63.0,Free delivery,Electrical & Storage,5
+645,AquaActive Hot,14190,34000,4.3,58.0,Delivery charges,Electrical & Storage,12
+646,Royal Aquafresh,4999,16500,4.5,69.0,Free delivery,Electrical & Storage,8
+648,Aqua Fresh,5224,16500,4.0,68.0,Free delivery,Electrical & Storage,10
+650,R.K. AQUA,4859,15999,4.0,69.0,Free delivery,Electrical & Storage,10
+652,Beyond water,2499,5999,4.7,58.0,Free delivery,Non - Electrical & Non - Storage,25
+653,Royal Aquafresh,4392,12125,3.9,63.0,Free delivery,Electrical & Storage,12
+654,KENT PRIDE+,15290,20000,4.3,23.0,Free delivery,Electrical & Storage,5
+656,BePURE Dew,8999,14999,4.3,40.0,Free delivery,Electrical & Storage,15
+657,Aquagrand Epic,4780,14000,4.1,65.0,Free delivery,Electrical & Storage,5
+658,Aqua Fresh,4746,9999,4.0,52.0,Free delivery,Electrical & Storage,9
+660,E.F.M Ultraviolet,220,550,4.8,60.0,Free delivery,Electrical & Non - Storage,5
+661,Aqua Ultra,5450,13500,3.6,59.0,Free delivery,Electrical & Storage,15
+662,AQUA PAERL,6450,18505,4.0,65.0,Free delivery,Electrical & Storage,15
+664,LG WW182EP,24214,33990,4.5,28.0,Free delivery,Electrical & Storage,5
+665,Aqua Fresh,4576,13500,3.8,66.0,Free delivery,Electrical & Storage,5
+668,Eureka Forbes,16550,20500,4.3,19.0,Free delivery,Electrical & Storage,22
+669,AquaActive Smart,14190,34500,3.7,58.0,Delivery charges,Electrical & Storage,15
+670,Aquaguard Maxima,8399,10000,4.3,16.0,Free delivery,Electrical & Non - Storage,5
+672,Noir Aqua,5399,9899,4.0,45.0,Free delivery,Electrical & Storage,18
+674,Grand plus,4399,16500,3.3,73.0,Free delivery,Electrical & Storage,5
+676,KENT STERLING,18530,20000,4.3,7.0,Free delivery,Electrical & Storage,5
+677,super aqua,6900,12500,4.3,44.0,Free delivery,Electrical & Storage,10
+678,Aqua Fresh,4949,16500,4.3,70.0,Free delivery,Electrical & Storage,12
+680,Aquaguard Premier,12599,15000,4.3,16.0,Free delivery,Electrical & Storage,5
+681,KENT Ace,17999,26500,4.5,32.0,Free delivery,Electrical & Storage,20
+682,Royal Aquafresh,4473,16500,4.2,72.0,Free delivery,Electrical & Storage,5
+685,Hindware KAARA,13490,18990,4.3,28.0,Free delivery,Electrical & Storage,15
+686,Aqua Fresh,4699,13999,4.3,66.0,Free delivery,Electrical & Storage,12
+688,Aquagrand SWIFT,4939,13500,4.3,63.0,Free delivery,Electrical & Storage,15
+689,Kinsco Aqua,4939,20000,3.9,75.0,Free delivery,Electrical & Storage,15
+692,Blue Star,10499,14400,4.6,27.0,Free delivery,Electrical & Storage,5
+693,Remino AquaX,4949,15999,4.3,69.0,Free delivery,Electrical & Storage,12
+694,NPT PURIFICATION,1800,2499,4.3,27.0,Delivery charges,Non - Electrical & Storage,5
+696,Aqua Fresh,4606,16500,4.3,72.0,Free delivery,Electrical & Storage,12
+697,trypkon CAMRY,4643,15999,4.3,70.0,Free delivery,Electrical & Storage,20
+698,KENT ELEGANT,15990,21500,4.3,25.0,Free delivery,Electrical & Storage,5
+700,Grand plus,4452,15000,4.7,70.0,Free delivery,Electrical & Storage,5
+701,Aquaguard SUPERB,16500,21500,4.3,23.0,Delivery charges,Electrical & Storage,5
+702,AquaActive Hot,14490,37000,4.3,60.0,Free delivery,Electrical & Storage,5
+705,LIVPURE PEP,10426,16467,4.0,36.0,Delivery charges,Electrical & Storage,5
+706,LIVPURE LIV-PLATINO-PLUS-COPPER2000,18300,21990,4.8,16.0,Delivery charges,Electrical & Storage,15
+708,Aquaultra ULS,4390,13500,4.3,67.0,Free delivery,Electrical & Storage,5
+709,Aquaguard Regal,12599,16000,4.3,21.0,Free delivery,Electrical & Storage,5
+710,Aquamart Water,4999,15999,4.3,68.0,Free delivery,Electrical & Storage,6000
+712,R.K. AQUA,4499,15999,4.1,71.0,Free delivery,Electrical & Storage,10
+714,G Series,12990,21990,4.3,40.0,Delivery charges,Electrical & Storage,5
+716,AQUA GRAND,4391,13222,3.8,66.0,Delivery charges,Electrical & Storage,15
+717,AQUA Z-plus-,4456,12885,3.8,65.0,Delivery charges,Electrical & Storage,15
+718,WATERPURE Non,1282,1900,4.3,32.0,Free delivery,Non - Electrical & Storage,16
+720,aquadeal 4G,15190,24990,4.3,39.0,Free delivery,Electrical & Storage,18
+721,Aqua Fresh,4887,14999,3.7,67.0,Free delivery,Electrical & Storage,12
+722,CUCKOO CP-RN702MBK,12591,13990,4.3,10.0,Free delivery,Electrical & Non - Storage,5
+724,Aquaultra Fiume,4848,13500,2.7,64.0,Free delivery,Electrical & Storage,15
+725,super aqua,6900,12990,3.6,46.0,Free delivery,Electrical & Storage,10
+726,Pureit Ultima,22340,27399,4.8,18.0,Delivery charges,Electrical & Storage,5
+728,Aquaultra A1011,4290,9990,3.7,57.0,Free delivery,Electrical & Storage,5
+729,Aqua Active,15383,21000,4.3,26.0,Free delivery,Electrical & Storage,5
+730,AQUA pearl,7999,17999,4.3,55.0,Delivery charges,Electrical & Storage,12
+732,Aquaguard Eden,27699,38500,4.3,28.0,Free delivery,Electrical & Storage,5
+733,G Series,9000,20000,3.7,55.0,Delivery charges,Electrical & Storage,5
+734,Aquafresh Alfa,4793,13999,4.0,65.0,Free delivery,Electrical & Storage,12
+736,pure master,7599,14999,4.3,49.0,Delivery charges,Electrical & Storage,15
+737,LG L.G,16350,20090,4.3,18.0,Free delivery,Electrical & Storage,5
+738,Hydroshell AquaX,4899,15999,4.3,69.0,Free delivery,Electrical & Storage,12
+740,Royal Aquafresh,4499,16500,4.5,72.0,Free delivery,Electrical & Storage,10
+741,Aqua Fresh,3994,16500,3.9,75.0,Free delivery,Electrical & Storage,12
+742,EUREKA FORBES,12150,12790,4.7,5.0,Free delivery,Electrical & Storage,5
+744,Aquaguard ASTOR,16900,18390,3.5,8.0,Free delivery,Electrical & Storage,5
+745,Blair EPIC,4806,16890,4.3,71.0,Free delivery,Electrical & Storage,5
+746,Hi Tech,1750,2899,4.3,39.0,Delivery charges,Electrical & Non - Storage,5
+748,Dr Aqua,14499,18999,4.3,23.0,Free delivery,Electrical & Storage,5
+749,g.s. aquafresh,4499,12999,4.3,65.0,Free delivery,Electrical & Storage,12
+750,Aqua Active,8369,24000,4.3,65.0,Delivery charges,Electrical & Storage,20
+752,EUREKA FORBES,2350,16599,3.9,43.5,Delivery charges,Non - Electrical & Storage,5
+753,Keel WHITE,6791,16500,4.3,58.0,Free delivery,Electrical & Storage,10
+754,KENT GRAND,19099,21000,3.5,9.0,Free delivery,Electrical & Storage,20
+757,Muskpure Digital,197,499,3.8,60.0,Delivery charges,Electrical & Non - Storage,5
+758,BePURE 3G,12999,23999,4.0,45.0,Free delivery,Electrical & Storage,15
+760,AQUA Grand+,4558,12500,3.7,63.0,Delivery charges,Electrical & Storage,15
+761,G Series,4590,4990,4.3,8.0,Free delivery,Electrical & Storage,5
+762,Aqua Supreme,4099,18000,4.3,77.0,Free delivery,Electrical & Storage,5
+764,LIVPURE Bolt,15950,17000,3.8,6.0,Delivery charges,Electrical & Storage,15
+766,AQUA Nexon,4939,14500,3.9,65.0,Free delivery,Electrical & Storage,18
+768,Aquatec Plus,9499,19999,4.3,52.0,Free delivery,Electrical & Storage,15
+769,Grand plus,4499,16500,3.4,72.0,Free delivery,Electrical & Storage,5
+770,Aquafresh PRISM,4887,13999,3.7,65.0,Free delivery,Electrical & Storage,12
+772,fedula AQUA,4555,14555,4.3,68.0,Delivery charges,Electrical & Storage,5
+773,Aquafresh FUSION,4699,13999,4.0,66.0,Free delivery,Electrical & Storage,12
+774,Grand plus,4399,16500,3.6,73.0,Free delivery,Electrical & Storage,12
+776,Zero B,20825,24500,4.3,15.0,Free delivery,Electrical & Storage,5
+777,Blair GLORY,6210,19999,4.3,68.0,Free delivery,Electrical & Storage,17
+778,Dr. AQUA,12500,18500,4.3,32.0,Free delivery,Electrical & Storage,15
+780,trypkon SAGA,4643,16426,3.7,71.0,Free delivery,Electrical & Storage,20
+781,Prestige Tattva,2999,3949,4.0,24.0,Free delivery,Non - Electrical & Storage,9
+782,Aquaguard ASTOR,17390,17790,4.0,2.0,Delivery charges,Electrical & Storage,5
+784,trypkon PLUTO,5034,17455,3.7,71.0,Free delivery,Electrical & Storage,20
+785,WATERPURE AWS,5319,11499,4.3,53.0,Delivery charges,Electrical & Storage,5
+786,Pureit Mineral,12990,13625,4.1,4.0,Delivery charges,Electrical & Storage,12
+788,Auric AURIC15L1221,4039,15999,4.3,74.0,Free delivery,Electrical & Storage,12
+789,LG WW120EP,24999,16599,4.8,43.5,Delivery charges,Electrical & Storage,12
+790,LG BH10,26999,16599,4.3,43.5,Delivery charges,Electrical & Storage,5
+792,Prisaa Purosis,14999,20799,4.3,27.0,Delivery charges,Electrical & Storage,9
+793,Alkaio Real,4499,12999,4.3,65.0,Free delivery,Electrical & Storage,12
+794,Aquagrand EPIC,5129,14500,3.8,64.0,Free delivery,Electrical & Storage,15
+796,AO Smith,2999,3999,4.3,25.0,Delivery charges,Electrical & Storage,5
+797,Aquagrand NYC,4597,15500,4.0,70.0,Free delivery,Electrical & Storage,12
+798,Blair MISTY,6210,19999,4.4,68.0,Free delivery,Electrical & Storage,17
+800,Aqua Ultra,4390,13500,3.7,67.0,Free delivery,Electrical & Storage,15
+801,Grand plus,4407,16500,4.3,73.0,Free delivery,Electrical & Storage,1
+802,CUCKOO CP-FRP601SW,42999,47990,1.0,10.0,Free delivery,Electrical & Storage,15
+804,Aqua Ace,999,1599,4.3,37.0,Delivery charges,Electrical & Storage,5
+805,Dr. AQUA,14500,19500,4.3,25.0,Free delivery,Electrical & Storage,15
+808,Aquagrand Seltos,4741,13500,3.9,64.0,Free delivery,Electrical & Storage,12
+809,LIVPURE LIV-ZINGER-CU-2K(White),15760,19990,4.1,21.0,Free delivery,Electrical & Storage,15
+810,Aqua Fresh,4793,13999,3.9,65.0,Free delivery,Electrical & Storage,5
+812,AquaDart 25,6299,22999,4.0,72.0,Free delivery,Electrical & Non - Storage,5
+813,Aquaguard Premier,17499,22000,4.3,20.0,Free delivery,Electrical & Storage,5
+814,KENT GRAND,17449,20000,4.3,12.0,Free delivery,Electrical & Storage,5
+816,aquadeal Aquagrand,5215,15990,4.3,67.0,Free delivery,Electrical & Storage,15
+817,AquaDart 100,16899,36999,4.2,54.0,Free delivery,Electrical & Non - Storage,100
+818,Dr Aqua,15299,18999,4.3,19.0,Free delivery,Electrical & Storage,5
+820,AquaDpure Alkaline,5199,15999,4.3,67.0,Free delivery,Electrical & Storage,6000
+822,AQUA Aqua_LC,5484,13999,4.3,60.0,Free delivery,Electrical & Storage,18
+824,EUREKA FORBES,1594,1999,3.8,20.0,Free delivery,Non - Electrical & Storage,15
+825,KENT Excell+,18800,20000,4.3,6.0,Free delivery,Electrical & Storage,5
+826,super aqua,5990,16500,3.8,63.0,Free delivery,Electrical & Non - Storage,20
+828,Blair EPIC,4851,19990,4.1,75.0,Free delivery,Electrical & Storage,5
+829,Blair GLORY,6282,19999,4.0,68.0,Free delivery,Electrical & Storage,17
+830,AQUA Red,4899,13500,4.0,63.0,Free delivery,Electrical & Storage,5
+833,AQUA LIBRA,5899,13999,4.3,57.0,Delivery charges,Electrical & Storage,5
+836,Aquagrand Shine,5034,15500,4.3,67.0,Free delivery,Electrical & Storage,12
+837,AQUA LIBRA,5449,12998,4.3,58.0,Delivery charges,Electrical & Storage,5
+838,Aqua Fresh,4887,13999,4.3,65.0,Free delivery,Electrical & Storage,5
+840,AquaActive Hot,14190,36000,3.3,60.0,Free delivery,Electrical & Storage,15
+842,AquaDpure 50,10259,33499,4.3,69.0,Free delivery,Electrical & Non - Storage,5
+844,Aquaguard ASTOR,17000,17790,4.3,4.0,Delivery charges,Electrical & Storage,5
+845,Aquaguard Enhance,19799,24000,4.3,17.0,Free delivery,Electrical & Storage,5
+846,captain pure,17490,19990,4.3,12.0,Free delivery,Electrical & Storage,5
+848,Hi Tech,1780,2990,4.3,40.0,Delivery charges,Electrical & Non - Storage,5
+849,fedula AQUA,6499,17999,4.3,63.0,Delivery charges,Electrical & Storage,15
+850,Pureit NXT,7990,10590,4.3,24.0,Free delivery,Electrical & Storage,5
+852,Aquaultra C11D,4290,13499,3.8,68.0,Free delivery,Electrical & Storage,15
+854,Remino 25,6174,18999,5.0,67.0,Free delivery,Electrical & Non - Storage,25
+856,Remino RO+UV+UF+TDS,4749,15999,3.7,70.0,Free delivery,Electrical & Storage,12
+857,AQUA Model,4844,15500,4.6,68.0,Free delivery,Electrical & Storage,10
+858,ALAUKIK Copper,4999,19990,3.7,74.0,Free delivery,Electrical & Storage,15
+860,RUBY UA-SZCV-KDZS-12Stage,4999,15000,4.1,66.0,Free delivery,Electrical & Storage,15
+862,Aquagrand SKYLAND,5034,14500,3.3,65.0,Free delivery,Electrical & Storage,18
+864,EUREKA FORBES,16990,18390,4.3,7.0,Free delivery,Electrical & Storage,5
+865,Aquafresh SWIFT,4699,13999,3.7,66.0,Free delivery,Electrical & Storage,12
+866,AquaActive Hot,14406,33000,4.3,56.0,Delivery charges,Electrical & Storage,12
+868,Purosis Aqua,10000,22500,4.3,55.0,Delivery charges,Electrical & Storage,15
+869,Grand plus,4949,16500,3.6,70.0,Free delivery,Electrical & Storage,5
+870,WATERPURE Non,1282,2200,4.3,41.0,Free delivery,Non - Electrical & Storage,16
+873,AQUA grand,4899,12999,4.3,62.0,Delivery charges,Electrical & Storage,5
+874,LG WW150NP,24490,16599,4.5,43.5,Delivery charges,Electrical & Storage,5
+876,Aquamart Alkaline,4844,19999,4.3,75.0,Free delivery,Electrical & Storage,12
+877,Grand plus,4399,16500,3.8,73.0,Free delivery,Electrical & Storage,5
+878,AquaActive MistyXtream2Black,8160,27600,4.3,70.0,Delivery charges,Electrical & Storage,14
+880,ONE RO,6199,24999,4.3,75.0,Free delivery,Electrical & Non - Storage,5
+881,AquaDart Premium,5499,19999,4.3,72.0,Free delivery,Electrical & Storage,12
+882,Kinsco 6,5039,19998,3.9,74.0,Free delivery,Electrical & Storage,15
+884,Grand plus,4399,16500,3.7,73.0,Free delivery,Electrical & Storage,5
+885,E.F.M Multilife,7176,11999,4.3,40.0,Free delivery,Electrical & Storage,5
+886,ojhashree Stainlness,1699,2850,4.3,40.0,Free delivery,Non - Electrical & Storage,5
+888,Remino Active,4999,12999,4.3,61.0,Free delivery,Electrical & Storage,12
+889,LG WW140NP,17499,22900,4.3,23.0,Delivery charges,Electrical & Storage,5
+890,Eureka Forbes,16990,21990,4.3,22.0,Delivery charges,Electrical & Storage,5
+892,Purosis Puroaqua,8500,11500,4.3,26.0,Delivery charges,Electrical & Storage,5
+893,Panasonic Tk-Cs50-Da,4800,8745,4.1,45.0,Free delivery,Electrical & Non - Storage,60
+894,Aquadfresh Active,5099,19999,4.3,74.0,Free delivery,Electrical & Storage,6000
+896,Clean jal,12000,12999,4.3,7.0,Free delivery,Electrical & Storage,2500
+900,Remino Advanced,5414,15999,4.3,66.0,Free delivery,Electrical & Storage,12
+901,LG WW172EP,50000,16599,4.3,43.5,Delivery charges,Electrical & Storage,5
+902,AquaDart Active,4799,19999,4.3,76.0,Free delivery,Electrical & Storage,5
+904,Aquaultra Advance,5149,13500,4.3,61.0,Free delivery,Electrical & Storage,5
+905,AquaDart Copper,4999,18999,4.3,73.0,Free delivery,Electrical & Storage,12
+906,Aquamart Copper,4511,19999,4.3,77.0,Free delivery,Electrical & Storage,12
+908,PURELLA BOB,5849,16999,4.3,65.0,Free delivery,Electrical & Storage,15
+909,AQUA AQUANEEO-SKYBLUE,5482,11999,4.3,54.0,Free delivery,Electrical & Storage,18
+910,AquaDart RO,4849,19999,4.3,75.0,Free delivery,Electrical & Storage,12
+912,nexus pure,5579,17724,4.0,68.0,Free delivery,Electrical & Storage,20
+914,Hydroshell AquaX,4999,15999,4.3,68.0,Free delivery,Electrical & Storage,12
+917,AQUA AQUACYCLONE-BLUE,5480,12449,4.3,55.0,Free delivery,Electrical & Storage,18
+918,Aquagrand Plus,6299,16500,4.3,61.0,Free delivery,Electrical & Storage,5
+920,Aquafresh NYC,4793,13999,4.3,65.0,Free delivery,Electrical & Storage,12
+921,Aquadfresh Copper,4849,19999,4.3,75.0,Free delivery,Electrical & Storage,6000
+922,AquaDart 100,16499,35999,4.3,54.0,Free delivery,Electrical & Non - Storage,5
+924,AquaDart Copper,5299,19999,4.3,73.0,Free delivery,Electrical & Storage,5
+925,AQUA AQUANEEO-BLACK,5482,11999,4.3,54.0,Free delivery,Electrical & Storage,18
+926,HAVELLS DELITE,20369,27917,4.3,27.0,Free delivery,Electrical & Storage,20
+928,AQUA LIBRA,3999,14999,4.3,73.0,Free delivery,Electrical & Storage,5
+929,Peore Pro-60,13500,20999,4.6,35.0,Free delivery,Electrical & Storage,5
+930,Hydroshell Water,5176,13999,4.3,63.0,Free delivery,Electrical & Non - Storage,12
+932,AQUA AQUACYCLONE-PURPLE,5482,12449,4.3,55.0,Free delivery,Electrical & Storage,18
+933,AQUA AQUADIGI-WHITE,5982,12449,4.3,51.0,Free delivery,Electrical & Storage,18
+934,AQUA AQUACRIZEL-SKY,5482,11999,4.3,54.0,Free delivery,Electrical & Storage,18
+936,AQUA ,4999,12999,4.3,61.0,Free delivery,Electrical & Storage,5
+937,AquaDpure Active,5199,15999,4.3,67.0,Free delivery,Electrical & Storage,6000
+938,Peore Pro-40,13500,20999,4.3,35.0,Free delivery,Electrical & Storage,30
+940,AquaDart RO,4899,19999,4.3,75.0,Free delivery,Electrical & Storage,5
+941,AQUA AQUALAKE-PURPLE,5482,12449,4.3,55.0,Free delivery,Electrical & Storage,18
+942,AQUA mineral,5482,12999,4.3,57.0,Free delivery,Electrical & Storage,18
+945,ONE RO,10499,25999,4.3,59.0,Free delivery,Electrical & Non - Storage,5
+946,Aquagrand Megastar,4699,17000,4.3,72.0,Free delivery,Electrical & Storage,5
+948,Aquamart Alkaline,4999,15999,4.3,68.0,Free delivery,Electrical & Storage,6000
+950,AquaDart Alkaline,4899,19999,4.3,75.0,Free delivery,Electrical & Storage,5
+952,Blair SWIFT,4971,19999,4.3,75.0,Free delivery,Electrical & Storage,17
+953,Aquamart Advance,4511,19999,4.3,77.0,Free delivery,Electrical & Storage,5
+954,Aquafresh SWIF,4652,13999,4.3,66.0,Free delivery,Electrical & Storage,12
+956,Cosea New,4790,12500,4.3,61.0,Free delivery,Electrical & Storage,7
+957,Royal Aquafresh,4904,16500,4.3,70.0,Free delivery,Electrical & Storage,8
+958,E.F.M Multilife,7079,11999,4.3,41.0,Free delivery,Electrical & Storage,5
+960,Blair ALFA,4930,19999,4.3,75.0,Free delivery,Electrical & Storage,17
+961,AQUA NYC,5034,14500,4.1,65.0,Free delivery,Electrical & Storage,12
+962,AQUA AquaPearl,7989,18000,4.3,55.0,Free delivery,Electrical & Storage,20
+964,Aquaultra A700,4699,11500,3.8,59.0,Free delivery,Electrical & Storage,5
+965,AquaDart RO,4899,19999,4.3,75.0,Free delivery,Electrical & Storage,12
+966,AK IVORY,4299,14999,4.3,71.0,Delivery charges,Electrical & Storage,15
+968,AQUA AQUACRIZEL-BLACK,5482,11999,4.3,54.0,Free delivery,Electrical & Storage,18
+969,Blair ALTIS,4971,19999,4.3,75.0,Free delivery,Electrical & Storage,17
+970,Blair GLORY,5830,19999,4.3,70.0,Free delivery,Electrical & Storage,17
+973,Blair CRYSTA,4929,19999,4.3,75.0,Free delivery,Electrical & Storage,17
+974,Blair FUSION,4934,19999,4.3,75.0,Free delivery,Electrical & Storage,17
+976,AQUA Red,5699,14500,4.3,60.0,Free delivery,Electrical & Storage,5
+977,ojhashree Aqua,5990,15990,4.3,62.0,Free delivery,Electrical & Storage,5
+982,AquaDart Premium,5399,19999,3.7,73.0,Free delivery,Electrical & Storage,5
